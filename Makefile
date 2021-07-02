@@ -1,6 +1,7 @@
 NAME = push_swap
 
-SRCS = push_swap.c list.c sort_list.c ft_split.c ft_atoi.c validator.c pre_sort.c sort.c get_position.c
+SRCS =	src/push_swap.c src/list.c src/sort_list.c src/ft_split.c src/ft_atoi.c \
+		src/validator.c src/pre_sort.c src/sort.c src/get_position.c
 
 CC = gcc
 
